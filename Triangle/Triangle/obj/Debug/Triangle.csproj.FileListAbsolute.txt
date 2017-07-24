@@ -2,3 +2,8 @@ c:\users\smirnova_e\documents\visual studio 2015\Projects\Triangle\Triangle\bin\
 c:\users\smirnova_e\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
 c:\users\smirnova_e\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.dll
 c:\users\smirnova_e\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\Triangle\bin\Debug\Triangle.dll
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\Triangle\obj\Debug\Triangle.dll
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\Triangle\obj\Debug\Triangle.pdb

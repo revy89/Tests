@@ -1,0 +1,8 @@
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\bin\Debug\TriangleTest.dll
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\bin\Debug\TriangleTest.pdb
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\bin\Debug\Triangle.dll
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\bin\Debug\Triangle.pdb
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\obj\Debug\TriangleTest.dll
+C:\Users\smirnova_e\Downloads\PortableGit\triangle\Triangle\TriangleTest\obj\Debug\TriangleTest.pdb
