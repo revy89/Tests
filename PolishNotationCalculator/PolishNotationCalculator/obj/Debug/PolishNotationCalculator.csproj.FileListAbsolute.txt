@@ -1,0 +1,9 @@
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\bin\Debug\PolishNotationCalculator.exe.config
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\bin\Debug\PolishNotationCalculator.exe
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\bin\Debug\PolishNotationCalculator.pdb
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\obj\Debug\PolishNotationCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\obj\Debug\PolishNotationCalculator.Form1.resources
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\obj\Debug\PolishNotationCalculator.Properties.Resources.resources
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\obj\Debug\PolishNotationCalculator.csproj.GenerateResource.Cache
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\obj\Debug\PolishNotationCalculator.exe
+C:\Users\Chame\Desktop\ASP.NET\PolishNotationCalculator\PolishNotationCalculator\obj\Debug\PolishNotationCalculator.pdb
